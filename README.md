@@ -25,7 +25,7 @@
 
 
 #### I'm working hard on my personal projects, once you start you got a lot of ideas 🤯
-- first all learn from A-Z, then practice, finally go back to review & practice again but this time like a pro 🪓
-- so, just work too hard, making something new everyday with love and passion💛
+- learn from A-Z, then practice, finally go back to review & practice again but this time like a pro 🪓
+- so, just work too hard, making new something everyday with love and passion💛
 
 - My youtube channel 👉https://www.youtube.com/channel/UCdx3XyWFjASjaP5rziR54sg👈
