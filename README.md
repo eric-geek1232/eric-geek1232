@@ -11,7 +11,7 @@
 
 - 💻Web Development [JS-HTML-CSS-PHP-SQL]
 
-- 🎈Others skills: c++, python
+- 🎈Other skills: c++, python
 
 </> 
 
