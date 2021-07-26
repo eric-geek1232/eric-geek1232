@@ -17,7 +17,7 @@
 
 - I love to create awsome things as a team🛠❤
 - In my free time, i often play violin classical music and mariachi as well 🎼🎻 especially classical music paganini🎻
-- I need to be creazy sometimes so for it, i play the electric guitar 🎸😂
+- I need to be crazy sometimes so for it, i play the electric guitar 🎸😂
 - I Love listening to music while I work  🎧
 - I practice calisthenics 🦾
 - I love painting roses and faces 🎨
