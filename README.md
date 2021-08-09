@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Eric
-## i hope you are going excellent
+## i hope you are doing excellent
 
 ### Im so glad to share my knowledge
 ## Skills: 
@@ -7,7 +7,7 @@
 </>
 
 - 📱 Android [Java-Kotlin] 
-- 📱 Hybric development [Flutter]
+- 📱 Hybric development [Flutter-React.js]
 
 - 💻Web Development [JS-HTML-CSS-PHP-SQL]
 
