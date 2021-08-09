@@ -6,18 +6,28 @@
 
 </>
 
-- 📱 Android [Java-Kotlin] 
-- 📱 Hybric development [Flutter-React.js]
+- 📱 Android
+🚀 Java
+🚀 Kotlin
 
-- 💻Web Development [JS-HTML-CSS-PHP-SQL]
+- 📱 Hybric development
+🚀 Flutter
+🚀 React Native
 
-- 🎈Other skills: c++, python
+- 💻Web Development 
+🚀 JavaScript-HTML5-CSS3
+🚀 PHP-SQL
+🚀 React.js
+
+- 🎈Other skills: 
+🔥 c++
+🔥 python
 
 </> 
 
 - I love to create awsome things as a team🛠❤
 - In my free time, i often play violin classical music and mariachi as well 🎼🎻 especially classical music paganini🎻
-- I need to be crazy sometimes so for it, i play the electric guitar 🎸😂
+  Yet I love playing the electric guitar too🎸😂
 - I Love listening to music while I work  🎧
 - I practice calisthenics 🦾
 - I love painting roses and faces 🎨
